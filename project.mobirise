@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-sq-iobf-black-300px-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-sq-iobf-white-128x128.png",
     "noImageResize": "",
     "versionFirst": "4.7.2",
     "uniqCompNum": 21,
