@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "One Billion Founders",
-    "currentPage": "httpbit.lyracheljim-bio",
+    "currentPage": "httpsonebillionfounders.github.ioracheljim",
     "theme": {
       "name": "businessm4",
       "title": "Business M4",
@@ -169,7 +169,7 @@
       },
       "components": []
     },
-    "httpbit.lyracheljim-bio": {
+    "httpsonebillionfounders.github.ioracheljim": {
       "settings": {
         "main": true,
         "title": "Rachel Jim BIO",
