@@ -174,7 +174,7 @@
         "main": true,
         "title": "One Billion Founders",
         "meta_descr": "Support services for Web 3.0  and blockchain enabled ventures",
-        "header_custom": "<!DOCTYPE html>\n<html>\n<body>\n<h1>Hello World</h1>\n<p>I'm hosted with GitHub Pages.</p>\n</body>\n</html>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
