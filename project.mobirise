@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "One Billion Founders",
-    "currentPage": "onebillionfounders.github.io",
+    "currentPage": "index.html",
     "theme": {
       "name": "businessm4",
       "title": "Business M4",
@@ -169,7 +169,7 @@
       },
       "components": []
     },
-    "onebillionfounders.github.io": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "One Billion Founders",
