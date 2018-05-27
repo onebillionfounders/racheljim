@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "One Billion Founders",
-    "currentPage": "index.html",
+    "currentPage": "httpbit.lyracheljim-bio",
     "theme": {
       "name": "businessm4",
       "title": "Business M4",
@@ -98,7 +98,7 @@
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "http://bit.ly/racheljim-bio"
   },
   "pages": {
     "page1.html": {
@@ -169,14 +169,14 @@
       },
       "components": []
     },
-    "index.html": {
+    "httpbit.lyracheljim-bio": {
       "settings": {
         "main": true,
-        "title": "One Billion Founders",
+        "title": "Rachel Jim BIO",
         "meta_descr": "Support services for Web 3.0  and blockchain enabled ventures",
-        "header_custom": "",
-        "footer_custom": "",
-        "html_before": ""
+        "header_custom": "<meta property=\"og:site_name\" content=\"One Billion Founders\"/>\n",
+        "footer_custom": "<meta property=\"og:image\" content=\"https://drive.google.com/open?id=1ybfGYYbyPQ8T2DXQid8QFbHTwZ_KIApS\">\n",
+        "html_before": "<meta property=\"og:type\" content=\"Growth Hacker\"/>\n"
       },
       "components": [
         {
