@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/iobf-blk-128x66.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iobf-trans-128x64.png",
     "noImageResize": "",
     "versionFirst": "4.7.2",
     "uniqCompNum": 21,
