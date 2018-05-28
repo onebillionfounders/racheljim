@@ -34,7 +34,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-sq-iobf-white-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/iobf-blk-128x67.png",
     "noImageResize": "",
     "versionFirst": "4.7.2",
     "uniqCompNum": 21,
@@ -98,7 +98,7 @@
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": "",
     "gdpr": "",
-    "google-analytics": "http://bit.ly/racheljim-bio"
+    "google-analytics": "<meta property=\"og:url\" content=\"http://bit.ly/racheljim-bio/\">\r\n"
   },
   "pages": {
     "page1.html": {
